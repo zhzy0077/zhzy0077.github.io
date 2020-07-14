@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>zhzy0077</title>
+	<link href="https://zhzy0077.github.com/atom.xml" rel="self" type="application/atom+xml"/>
+	<link href="https://zhzy0077.github.com"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2020-07-13T00:00:00+00:00</updated>
+	<id>https://zhzy0077.github.com/atom.xml</id>
+	<entry xml:lang="en">
+		<title>My first post based on Zola</title>
+		<published>2020-07-13T00:00:00+00:00</published>
+		<updated>2020-07-13T00:00:00+00:00</updated>
+		<link href="https://zhzy0077.github.com/hello/" type="text/html"/>
+		<id>https://zhzy0077.github.com/hello/</id>
+		<content type="html">&lt;p&gt;Hello world.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

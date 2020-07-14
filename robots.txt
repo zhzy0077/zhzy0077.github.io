@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://zhzy0077.github.com/sitemap.xml

@@ -1,7 +1,9 @@
-name: Subscription
+name: Build
 
 on:
-  push: develop
+  push:
+    branches:
+      - master
 
 jobs:
   run:

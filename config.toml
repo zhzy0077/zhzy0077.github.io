@@ -1,0 +1,21 @@
+base_url = "https://zhzy0077.github.com"
+title = "zhzy0077"
+
+compile_sass = true
+
+highlight_code = true
+highlight_theme = "base16-ocean-light"
+
+build_search_index = true
+generate_feed = true
+
+theme = "slim"
+
+[extra] 
+slim_summary = true
+slim_content = false
+
+slim_social = [
+    {url = "https://github.com/zhzy0077", name = "Github"}
+]
+slim_footer = "Hosted at Github Pages"
